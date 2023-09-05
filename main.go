@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"maths-package/math"
-	"maths-package/strings"
-	"maths-package/utils"
+
+	"github.com/rajvinoth227/maths-package/math"
+	"github.com/rajvinoth227/maths-package/strings"
+	"github.com/rajvinoth227/maths-package/utils"
 )
 
 func main() {
